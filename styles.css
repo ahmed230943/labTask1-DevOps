@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Helvetica+Neue:wght@500&display=swap');
+
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #C19A6B; /* camel color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.centered {
+    font-size: 10em;
+    font-weight: 700; /* medium */
+}
